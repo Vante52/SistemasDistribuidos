@@ -1,0 +1,11 @@
+P, Libro Inexistente, 9999
+P, Machine Learning, 2270
+P, Machine Learning, 2270
+P, Machine Learning, 2270
+P, Machine Learning, 2270
+P, Machine Learning, 2270
+P, Machine Learning, 2270
+D, Artificial Intelligence, 2260
+R, Programming Languages, 2240
+P, Operating Systems, 2233
+Q, Salir, 0
