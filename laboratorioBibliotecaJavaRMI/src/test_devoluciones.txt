@@ -1,5 +1,0 @@
-D, Operating Systems, 2233
-D, Machine Learning, 2270
-D, Computer Networks, 2250
-D, Data Bases, 2234
-Q, Salir, 0
